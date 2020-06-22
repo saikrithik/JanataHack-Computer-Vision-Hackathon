@@ -10,11 +10,11 @@ Fatalities due to traffic delays of emergency vehicles such as ambulance & fire 
   
 In this problem, you will be working on classifying vehicle images as either belonging to the emergency vehicle or non-emergency vehicle category. For the same, you are provided with the train and the test dataset. Emergency vehicles usually includes police cars, ambulance and fire brigades.
 ### Data Description:-
-- train.zip: contains 2 csvs and 1 folder containing image data
-  1. train.csv – [‘image_names’, ‘emergency_or_not’] contains the image name and correct class for 1646 (70%) train images
-  2. images – contains 2352 images for both train and test sets
-- test.csv: [‘image_names’] contains just the image names for the 706 (30%) test images- 
-- sample_submission.csv: [‘image_names’,’emergency_or_not­’] contains the exact format for a valid submission (1 - For Emergency Vehicle, 0 - For Non Emergency Vehicle)
+- **train.zip**: contains 2 csvs and 1 folder containing image data
+  1. ****train.csv**** – [‘image_names’, ‘emergency_or_not’] contains the image name and correct class for 1646 (70%) train images
+  2. ****images**** – contains 2352 images for both train and test sets
+- **test.csv**: [‘image_names’] contains just the image names for the 706 (30%) test images- 
+- **sample_submission.csv**: [‘image_names’,’emergency_or_not­’] contains the exact format for a valid submission (1 - For Emergency Vehicle, 0 - For Non Emergency Vehicle)
 ## Data at a Glance
 <img src="Data_df.png"
      alt="Markdown Monster icon"
