@@ -33,7 +33,7 @@ In this problem, you will be working on classifying vehicle images as either bel
 3. fastai library for the model
 4. matplotlib and seaborn was used for plotting and analyzing the data
 ##### Data_Leak(Sorted images shows everything!)
-img src="Sorted_Data_Photos.png"
+<img src= "Sorted_Data_Photos.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 #### Competition Result
